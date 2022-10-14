@@ -1,0 +1,15 @@
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\38.csproj.AssemblyReference.cache
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\38.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\38.AssemblyInfoInputs.cache
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\38.AssemblyInfo.cs
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\38.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\bin\Debug\net6.0\38.exe
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\bin\Debug\net6.0\38.deps.json
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\bin\Debug\net6.0\38.runtimeconfig.json
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\bin\Debug\net6.0\38.dll
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\bin\Debug\net6.0\38.pdb
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\38.dll
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\refint\38.dll
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\38.pdb
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\38.genruntimeconfig.cache
+D:\GB\Знакомство_с_языками_программирования\Семинары\5\HW\38\obj\Debug\net6.0\ref\38.dll
